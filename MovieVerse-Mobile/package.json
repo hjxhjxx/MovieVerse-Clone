@@ -1,0 +1,30 @@
+{
+  "name": "movieversemobile",
+  "displayName": "MovieVerse",
+  "version": "1.0.0",
+  "description": "An interactive movie database app that allows users to search for movies, view movie details, and save movies to their favorites list",
+  "main": "index.js",
+  "scripts": {
+    "dev:android": "cd ../MovieVerse-Mobile && cordova run android",
+    "dev:ios": "cd ../MovieVerse-Mobile && cordova run ios",
+    "build:android": "cd ../MovieVerse-Mobile && cordova build android",
+    "build:ios": "cd ../MovieVerse-Mobile && cordova build ios"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Son Nguyen",
+  "license": "MIT",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "plugins": {
+      "cordova-plugin-statusbar": {}
+    }
+  },
+  "devDependencies": {
+    "cordova-plugin-statusbar": "^4.0.0"
+  }
+}

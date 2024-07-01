@@ -1,0 +1,27 @@
+{
+  "name": "themovieverseapp",
+  "displayName": "MovieVerse",
+  "version": "1.0.0",
+  "description": "An interactive movie database app that allows users to search for movies, view movie details, and save movies to their favorites list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Son Nguyen",
+  "license": "MIT",
+  "cordova": {
+    "platforms": [
+      "android",
+      "ios"
+    ],
+    "plugins": {
+      "cordova-plugin-statusbar": {}
+    }
+  },
+  "devDependencies": {
+    "cordova-plugin-statusbar": "^4.0.0"
+  }
+}

@@ -1,0 +1,3 @@
+C:/Users/hoang/WebstormProjects/The-MovieVerse-Database/utilities/cmake-build-debug/CMakeFiles/utilities.dir
+C:/Users/hoang/WebstormProjects/The-MovieVerse-Database/utilities/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hoang/WebstormProjects/The-MovieVerse-Database/utilities/cmake-build-debug/CMakeFiles/rebuild_cache.dir
